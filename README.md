@@ -13,6 +13,5 @@ you are not what happens to you
 you are how you respond to it
 
 **$ cat notes.txt**  
-current website does not represent me fully  
-i’m working on a new one — stay tuned
+current website does not represent me fully i’m working on a new one — stay tuned
 
