@@ -13,5 +13,5 @@ you are not what happens to you
 you are how you respond to it
 
 **$ cat notes.txt**  
-current website does not represent me fully i’m working on a new one — stay tuned
+Still putting the finishing touches on it, but you can learn more about me here → [website](https://itshd.net)
 
