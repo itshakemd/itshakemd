@@ -13,5 +13,5 @@ you are not what happens to you
 you are how you respond to it
 
 **$ cat notes.txt**  
-Still putting the finishing touches on it, but you can learn more about me here → [website](https://itshd.net)
+Still putting the finishing touches on it, but you can learn more about me here → [website](https://itshakemd.net)
 
